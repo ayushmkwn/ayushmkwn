@@ -26,8 +26,7 @@ I'm **[Ayush Makwana](https://github.com/ayushmkwn)**, a **computer science and 
 
 Please explore my repositories and feel free to give feedback.
 
-- 🤝 &nbsp;I’m looking to collaborate on algorithms projects, Web Development Projects.
-- ✍️ &nbsp;I’m currently learning Amazon Web Services, Data Mining and TypeScript for React. 
+- 🤝 &nbsp;I’m looking to collaborate on algorithms projects, Web Development Projects. 
 - 📫 How to reach me: 
 
 [<img align = "left" alt="Ayush Makwana | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/ayush-makwana-039394172/)
